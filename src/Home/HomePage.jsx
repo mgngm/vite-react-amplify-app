@@ -53,6 +53,7 @@ export default function HomePage() { // Apply plugin with configuration
         }).catch(err => console.error(err))
     }
 
+    
     return (
         <Box>
             <Flex p={3}
